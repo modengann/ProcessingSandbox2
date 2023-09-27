@@ -10,7 +10,7 @@ public class App extends PApplet{
     }
 
     public void settings(){
-        
+        size(800,600);
     }
 
     public void draw(){
